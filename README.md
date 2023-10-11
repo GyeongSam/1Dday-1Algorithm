@@ -1,4 +1,4 @@
-# 1Dday-1Algorithm
+1Dday-1Algorithm
 ===
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rud7tka)
